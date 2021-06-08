@@ -1,0 +1,42 @@
+div.wrapper{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 100px;
+    background-color: rgb(0, 162, 255);
+    width: 60%;
+    height: auto;
+    color: snow;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+}
+
+#tens{
+    font-size: xx-large;
+}
+
+#seconds{
+    font-size: xx-large;
+}
+
+button{
+    border: 1px solid white;
+    margin: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(0, 162, 255);
+    color: snow;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+button:hover{
+    background: white;
+	border: solid 1px white;
+	color: rgb(0, 162, 255);
+}
+
+.heading {
+    font-size: 2em;
+    font-weight: lighter;
+}
